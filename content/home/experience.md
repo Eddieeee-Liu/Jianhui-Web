@@ -35,7 +35,7 @@ experience:
   - title: Research Intern
     company: Baidu
     company_url: ''
-    company_logo: baidu
+    company_logo: org-gc
     location: Remote
     date_start: '2022-02-17'
     date_end: ''
