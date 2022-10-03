@@ -74,7 +74,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I am currently a second year Ph.D student in HKU, supervised by Prof. Xiaojuan Qi. Before that I got my B.Eng in XDU in 2017. I am also a computer vision developer in SmartMore.
+Hi! I am currently a second year Ph.D student in HKU, supervised by Prof. Xiaojuan Qi. Before that I got my B.Eng in XDU in 2021. I am also a computer vision developer in SmartMore.
 
 
 <!-- Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
