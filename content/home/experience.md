@@ -26,7 +26,7 @@ experience:
   - title: Computer Vision Developer
     company: SmartMore
     company_url: ''
-    company_logo: org-gc
+    company_logo: SM
     location: Hong Kong
     date_start: '2021-09-01'
     date_end: ''
