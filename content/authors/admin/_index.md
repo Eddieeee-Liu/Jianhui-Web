@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jianhui Liy 刘健晖
+title: Jianhui Liu 刘健晖
 
 # Full name (for SEO)
 first_name: Jianhui
