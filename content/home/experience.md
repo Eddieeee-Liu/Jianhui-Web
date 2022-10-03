@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Computer Vision Developer
     company: SmartMore
-    company_url: 'https://smartmore.global/'
+    company_url: ''
     company_logo: org-gc
     location: Hong Kong
     date_start: '2021-09-01'
@@ -34,7 +34,7 @@ experience:
 
   - title: Research Intern
     company: Baidu
-    company_url: 'https://home.baidu.com/'
+    company_url: ''
     company_logo: org-x
     location: Remote
     date_start: '2022-02-17'
