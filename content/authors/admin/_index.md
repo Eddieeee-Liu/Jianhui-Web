@@ -10,12 +10,12 @@ last_name: Liu
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Hong Kong
+    url: https://www.hku.hk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -29,15 +29,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: PhD in Electronic and Electrical Engineering
+      institution: The University of Hong Kong (HKU)
+      year: 2021
     - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: Xi'dian University (XDU)
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -46,22 +43,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: 
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?hl=en&user=n1JW-jYAAAAJ&view_op=list_works&gmla=AJsN-F7kLL-_fYebsbvEtZB6lkxAhhv75FXdC5SbnwyayebnE19leW5AHlN-PB-zZY-gMQT9LoxO67t6yE9bU_ccSAdxEPzXFB-wvFchOA3wxe7Pd4wH4_Y
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/Eddieeee-Liu
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
