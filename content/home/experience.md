@@ -21,25 +21,50 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
-  - title: Computer Vision Developer
-    company: SmartMore
+  - title: CEO
+    company: GenCoin
     company_url: ''
     company_logo: org-gc
-    location: Hong Kong
-    date_start: '2021-09-01'
-    date_end: 'Present'
-    description: Industrial AI.
-  
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
-  - title: Research Intern
-    company: Baidu
+  - title: Professor of Semiconductor Physics
+    company: University X
     company_url: ''
     company_logo: org-x
-    location: Remote
-    date_start: '2022-02-17'
-    date_end: 'Present'
-    description: 3D Object Detection & Efficient Model Design
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+
+# experience:
+#   - title: Computer Vision Developer
+#     company: SmartMore
+#     company_url: ''
+#     company_logo: org-gc
+#     location: Hong Kong
+#     date_start: '2021-09-01'
+#     date_end: 'Present'
+#     description: Industrial AI.
+  
+
+#   - title: Research Intern
+#     company: Baidu
+#     company_url: ''
+#     company_logo: org-x
+#     location: Remote
+#     date_start: '2022-02-17'
+#     date_end: 'Present'
+#     description: 3D Object Detection & Efficient Model Design
 
 design:
   columns: '2'
