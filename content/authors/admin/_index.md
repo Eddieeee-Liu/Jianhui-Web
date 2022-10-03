@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Jianhui Liy 刘健晖
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Jianhui
+last_name: Liu
 
 # Is this the primary user of the site?
 superuser: true
