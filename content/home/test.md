@@ -27,12 +27,12 @@ design:
 
 
 **Spatial Pruned Sparse Convolution for Efficient 3D Object Detection**\
-_Jianhui Liu*_, _Yukang Chen*_, _Xiaoqing Ye_, _Zhuotao Tian_, _Xiao Tan_, _Xiaojuan Qi_
-Conference on Neural Information Processing Systems (NeurIPS), 2022.
+_Jianhui Liu*_, _Yukang Chen*_, _Xiaoqing Ye_, _Zhuotao Tian_, _Xiao Tan_, _Xiaojuan Qi_\
+_Conference on Neural Information Processing Systems (NeurIPS), 2022._
 
 **Scaling up Kernels in 3D CNNs**\
-_Yukang Chen*_, _Jianhui Liu*_, _Xiaojuan Qi_, _Xiangyu Zhang_, _Jian Sun_, _Jiaya Jia_
-arxiv preprint
+_Yukang Chen*_, _Jianhui Liu*_, _Xiaojuan Qi_, _Xiangyu Zhang_, _Jian Sun_, _Jiaya Jia_\
+_arxiv preprint_
 
 
 
