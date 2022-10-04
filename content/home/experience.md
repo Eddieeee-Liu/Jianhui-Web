@@ -1,66 +1,51 @@
 ---
-# An instance of the Experience widget.
+# An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
+widget: blank
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
-title: Experience
+# Section title
+title: Selected Publication
+
+# Section subtitle
 subtitle:
 
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
-
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-
-experience:
-  - title: Computer Vision Developer
-    company: SmartMore
-    company_url: ''
-    company_logo: smartmore
-    location: Hong Kong
-    date_start: '2021-09-01'
-    date_end: ''
-    description: Industrial AI.
-
-  - title: Research Intern
-    company: Baidu
-    company_url: ''
-    company_logo: baidu
-    location: Remote
-    date_start: '2022-02-17'
-    date_end: ''
-    description: 3D Object Detection & Efficient Model Design.
-
-# experience:
-#   - title: Computer Vision Developer
-#     company: SmartMore
-#     company_url: ''
-#     company_logo: org-gc
-#     location: Hong Kong
-#     date_start: '2021-09-01'
-#     date_end: 'Present'
-#     description: Industrial AI.
-  
-
-#   - title: Research Intern
-#     company: Baidu
-#     company_url: ''
-#     company_logo: org-x
-#     location: Remote
-#     date_start: '2022-02-17'
-#     date_end: 'Present'
-#     description: 3D Object Detection & Efficient Model Design
-
+# Section design
 design:
-  columns: '2'
+  # Use a 1-column layout
+  columns: "1"
+  # Use a dark navy background with light text.
+  background:
+    color: 'white'
+    text_color_light: False
 ---
+
+
+<div style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto; display: flex">   
+  <div style="padding:10px;width:50%;vertical-align:middle">
+            <img src='../experience/smartmore.png' width="250">
+    </div>
+    <div style="padding:10px;width:80%;vertical-align:middle">
+    <p><br><br><b>SmartMore</b><br>
+      <i>Computer Vision Developer</i><br>
+      <i>Sep 2021 – Present  Hong Kong.</i></p >
+    </div>
+</div> 
+
+
+<div style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto; display: flex">	
+  <div style="padding:10px;width:50%;vertical-align:middle">
+			<img src='../experience/baidu.jpg' width="250">
+	</div>
+	<div style="padding:10px;width:80%;vertical-align:middle">
+    <p><br><br><br><b>Baidu Vis-Var</b><br>
+      <i>Research Intern</i><br>
+      <i>Feb 2022 – Present Remote.</i></p >
+	</div>
+</div> 
+
