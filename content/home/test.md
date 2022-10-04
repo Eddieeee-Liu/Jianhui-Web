@@ -10,7 +10,7 @@ headless: true
 weight: 110
 
 # Section title
-title: Hello
+title: Selected Publication
 
 # Section subtitle
 subtitle:
@@ -25,5 +25,6 @@ design:
     text_color_light: False
 ---
 
-
-> **Add any content to the body of the section here.**
+```
+**Add any content to the body of the section here.**
+```
