@@ -26,26 +26,37 @@ design:
 ---
 
 
-**Spatial Pruned Sparse Convolution for Efficient 3D Object Detection**\
+<!-- **Spatial Pruned Sparse Convolution for Efficient 3D Object Detection**\
 _Jianhui Liu*_, _Yukang Chen*_, _Xiaoqing Ye_, _Zhuotao Tian_, _Xiao Tan_, _Xiaojuan Qi_\
-_Conference on Neural Information Processing Systems (NeurIPS), 2022._
+_Conference on Neural Information Processing Systems (NeurIPS), 2022._ -->
 
 <!-- <img src="../publication/sps-conv/SPS-Conv.png" width = "300" height = "200" alt="图片说明" align=right /> -->
 
 <div style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto; display: flex">	
-	<div style="padding:20px;width:100%;vertical-align:middle">
+	<div style="padding:10px;width:100%;vertical-align:middle">
     <p><b>Spatial Pruned Sparse Convolution for Efficient 3D Object Detection</b><br>
       <i>Jianhui Liu*, Yukang Chen*, Xiaoqing Ye, Zhuotao Tian, Xiao Tan, Xiaojuan Qi</i><br>
-      <i>Conference on Neural Information Processing Systems (NeurIPS), 2022.</i>i></p >
+      <i>Conference on Neural Information Processing Systems (NeurIPS), 2022.</i></p >
 	</div>
-	<div style="padding:20px;width:50%;vertical-align:middle">
+	<div style="padding:10px;width:50%;vertical-align:middle">
 			<img src='../publication/sps-conv/SPS-Conv.png' width="250">
 	</div>
 </div>
 
-**Scaling up Kernels in 3D CNNs**\
+<div style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto; display: flex">	
+	<div style="padding:10px;width:100%;vertical-align:middle">
+    <p><b>Scaling up Kernels in 3D CNNs</b><br>
+      <i>Yukang Chen*, Jianhui Liu*, Xiaojuan Qi, Xiangyu Zhang, Jian Sun, Jiaya Jia</i><br>
+      <i>arXiv Preprint, 2022.</i></p >
+	</div>
+	<div style="padding:10px;width:50%;vertical-align:middle">
+			<img src='../publication/sps-conv/SW-Conv.png' width="250">
+	</div>
+</div>
+
+<!-- **Scaling up Kernels in 3D CNNs**\
 _Yukang Chen*_, _Jianhui Liu*_, _Xiaojuan Qi_, _Xiangyu Zhang_, _Jian Sun_, _Jiaya Jia_\
-_arxiv preprint_
+_arxiv preprint_ -->
 
 **Stratified Transformer for 3D Point Cloud Segmentation**\
 _Xin Lai*_, _Jianhui Liu*_, _Li Jiang_, _Liwei Wang_, _Hengshuang Zhao_, _Shu Liu_, _Xiaojuan Qi_, _Jiaya Jia_,\
