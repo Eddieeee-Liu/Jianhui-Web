@@ -44,7 +44,7 @@ design:
 			<img src='../experience/baidu.jpg' width="250">
 	</div>
 	<div style="padding:10px;width:80%;vertical-align:middle">
-    <p><br><b>Baidu Vis-Var</b><br>
+    <p><br><br><b>Baidu Vis-Var</b><br>
       <i>Research Intern</i><br>
       <i>Feb 2022 – Present</i> 
       <i>Remote</i></p >
