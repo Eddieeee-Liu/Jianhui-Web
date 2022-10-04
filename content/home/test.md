@@ -34,5 +34,8 @@ _Conference on Neural Information Processing Systems (NeurIPS), 2022._
 _Yukang Chen*_, _Jianhui Liu*_, _Xiaojuan Qi_, _Xiangyu Zhang_, _Jian Sun_, _Jiaya Jia_\
 _arxiv preprint_
 
+**Stratified Transformer for 3D Point Cloud Segmentation**\
+_Xin Lai*_, _Jianhui Liu*_, _Li Jiang_, _Liwei Wang_, _Hengshuang Zhao_, _Shu Liu_, _Xiaojuan Qi_, _Jiaya Jia_,\
+_IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022._
 
 
