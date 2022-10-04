@@ -26,14 +26,15 @@ design:
 ---
 
 
-<div style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto; display: flex">   
+<div style="width:100%;height:50%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto; display: flex">   
   <div style="padding:10px;width:50%;vertical-align:middle">
             <img src='../experience/smartmore.png' width="250">
     </div>
     <div style="padding:10px;width:80%;vertical-align:middle">
-    <p><br><br><b>SmartMore</b><br>
+    <p><br><b>SmartMore</b><br>
       <i>Computer Vision Developer</i><br>
-      <i>Sep 2021 – Present  Hong Kong.</i></p >
+      <i>Sep 2021 – Present</i><br>
+      <i>Hong Kong</i></p >
     </div>
 </div> 
 
@@ -45,7 +46,8 @@ design:
 	<div style="padding:10px;width:80%;vertical-align:middle">
     <p><br><br><br><b>Baidu Vis-Var</b><br>
       <i>Research Intern</i><br>
-      <i>Feb 2022 – Present Remote.</i></p >
+      <i>Feb 2022 – Present</i> 
+      <i>Remote</i></p >
 	</div>
 </div> 
 
