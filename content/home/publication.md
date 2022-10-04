@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 110
+weight: 40
 
 # Section title
 title: Selected Publication
@@ -32,7 +32,6 @@ _Conference on Neural Information Processing Systems (NeurIPS), 2022._ -->
 
 <!-- <img src="../publication/sps-conv/SPS-Conv.png" width = "300" height = "200" alt="图片说明" align=right /> -->
 
-<br>
 <br>
 <br>
 
