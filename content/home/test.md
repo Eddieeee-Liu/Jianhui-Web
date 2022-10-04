@@ -32,6 +32,11 @@ _Conference on Neural Information Processing Systems (NeurIPS), 2022._ -->
 
 <!-- <img src="../publication/sps-conv/SPS-Conv.png" width = "300" height = "200" alt="图片说明" align=right /> -->
 
+<br>
+<br>
+<br>
+
+
 <div style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto; display: flex">	
 	<div style="padding:10px;width:100%;vertical-align:middle">
     <p><b>Spatial Pruned Sparse Convolution for Efficient 3D Object Detection</b><br>
