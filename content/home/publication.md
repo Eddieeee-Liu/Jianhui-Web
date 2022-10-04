@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Section title
-title: Selected Publication
+title: Selected Publications
 
 # Section subtitle
 subtitle:
