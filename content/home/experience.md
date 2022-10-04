@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Section title
-title: Selected Publication
+title: Experience
 
 # Section subtitle
 subtitle:
@@ -18,7 +18,7 @@ subtitle:
 # Section design
 design:
   # Use a 1-column layout
-  columns: "1"
+  columns: "2"
   # Use a dark navy background with light text.
   background:
     color: 'white'
