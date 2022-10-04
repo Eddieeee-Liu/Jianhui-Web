@@ -26,5 +26,5 @@ design:
 ---
 
 
-**Spatial Pruned Sparse Convolution for Efficient 3D Object Detection**
+**Spatial Pruned Sparse Convolution for Efficient 3D Object Detection** \ 
    Jianhui Liu^*, Yukang Chen^*
